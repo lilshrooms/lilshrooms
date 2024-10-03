@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @lilshrooms
+👋 Hi, I’m @lilshrooms.
 
-<!---
-lilshrooms/lilshrooms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+None of what I'm working on is good code, enter at your own risk... 
+
