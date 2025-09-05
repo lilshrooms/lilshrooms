@@ -1,4 +1,3 @@
-👋 Hi, I’m @lilshrooms.
+Hi, I’m Ian T.
 
-None of what I'm working on is good code, enter at your own risk... 
-
+Welcome to the idea dojo. 
